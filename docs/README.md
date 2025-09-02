@@ -13,8 +13,8 @@ Demais diretrizes constam no Moodle.
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  | [Artur Mendonça](https://github.com/ArtyMend07) |
-| xx/xxxxxx  | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| 23/1033737 | [Artur Mendonça](https://github.com/ArtyMend07) |
+| 23/1035464  | [Lucas Mendonça](https://github.com/lucasarruda9) |
 
 ## Sobre 
 O SustentabilidadeJá é um site que visa incentivar práticas sustentáveis através de um sistema de recompensas. Os usuários poderão registrar suas ações sustentáveis do dia a dia e, em troca, receberão tokens que podem ser trocados por benefícios.
