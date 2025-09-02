@@ -1,4 +1,4 @@
-# RepositorioTemplate
+# SustentabilidadeJá
 
 Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
 
@@ -46,6 +46,15 @@ Para iniciar o site localmente:
     ```
 
 3. Acesse http://localhost:3000 em seu navegador
+
+## Integrantes
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ArtyMend07"><img style="border-radius: 50%;" src="https://github.com/ArtyMend07.png" width="100px;" alt=""/><br /><sub><b>Artur Mendonça</b></sub></a><br /><a href="https://github.com/ArtyMend07"></a></td>
+    <td align="center"><a href="https://github.com/lucasarruda9"><img style="border-radius: 50%;" src="https://github.com/lucasarruda9.png" width="100px;" alt=""/><br /><sub><b>Lucas Mendonça</b></sub></a><br /><a href="https://github.com/lucasarruda9"></a></td>
+  </tr>
+</table>
 
 ## Histórico de Versões
 
