@@ -1,8 +1,9 @@
 # 2025.2 - SustentabilidadeJá
 
 <div align="center">
-  
-![Logo SustentabilidadeJá](./assets/Logo.png)
+
+
+<img src="./assets/Logo.png" alt="Logo SustentabilidadeJá" width="400">  
 
 ### 🌱 *Transformando ações sustentáveis em recompensas digitais*
 
