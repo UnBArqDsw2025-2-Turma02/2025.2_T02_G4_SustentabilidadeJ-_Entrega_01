@@ -15,6 +15,14 @@ Demais diretrizes constam no Moodle.
 | -- | -- |
 | 23/1033737 | [Artur Mendonça](https://github.com/ArtyMend07) |
 | 23/1035464  | [Lucas Mendonça](https://github.com/lucasarruda9) |
+| 22/2006801 | [Henrique Carvalho](https://github.com/henriquecarv3) |
+| 22/2006893  | [Kaio Macedo](https://github.com/bigkaio) |
+| 22/2006392 | [Renan Batista](https://github.com/renanpariiz) |
+| 23/1012129  | [Gabriel Lopes](https://github.com/BrzGab) |
+| 21/1031593 | [André Lopes](https://github.com/AndreLopesDeSousa) |
+| 23/1011079  | [Ana Luiza](https://github.com/luluaroeira) |
+| 23/1011426  | [Gustavo Gontijo](https://github.com/Guga301104) |
+| 23/1026616 | [Davi Emanuel](https://github.com/daviRolvr) |
 
 ## Sobre 
 O SustentabilidadeJá é um site que visa incentivar práticas sustentáveis através de um sistema de recompensas. Os usuários poderão registrar suas ações sustentáveis do dia a dia e, em troca, receberão tokens que podem ser trocados por benefícios.
@@ -38,3 +46,4 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 | Versão | Data       | Descrição | Autor | Revisor | Data da Revisão |
 |--------|------------|-----------|--------|---------|-----------------|
 | 1.0    | 02/09/2025| Adição das informações iniciais do projeto | [Artur Mendonça](https://github.com/ArtyMend07) | [Lucas Mendonça](https://github.com/lucasarruda9) | 02/09/2025 |
+| 2.0    | 03/09/2025| Adição do restante dos participantes  | [Henrique Carvalho](https://github.com/henriquecarv3) | [Kaio Macedo](https://github.com/bigkaio) | 03/09/2025 |
