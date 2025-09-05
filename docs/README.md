@@ -1,8 +1,3 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial.
-As seções do Template NÃO DEVEM SER OMITIDAS, sendo TODAS RELEVANTES.
-Demais diretrizes constam no Moodle.
-
 # SustentabilidadeJá
 
 **Código da Disciplina**: FGA0208<br>
@@ -34,7 +29,7 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ( ) SIM
 
-( ) NÃO
+(x) NÃO
 
 Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
@@ -46,4 +41,5 @@ Quaisquer outras informações adicionais podem ser descritas nessa seção.
 | Versão | Data       | Descrição | Autor | Revisor | Data da Revisão |
 |--------|------------|-----------|--------|---------|-----------------|
 | 1.0    | 02/09/2025| Adição das informações iniciais do projeto | [Artur Mendonça](https://github.com/ArtyMend07) | [Lucas Mendonça](https://github.com/lucasarruda9) | 02/09/2025 |
-| 2.0    | 03/09/2025| Adição do restante dos participantes  | [Henrique Carvalho](https://github.com/henriquecarv3) | [Kaio Macedo](https://github.com/bigkaio) | 03/09/2025 |
+| 1.1    | 03/09/2025| Adição do restante dos participantes  | [Henrique Carvalho](https://github.com/henriquecarv3) | [Kaio Macedo](https://github.com/bigkaio) | 03/09/2025 |
+| 1.2    | 04/09/2025| Ajustes em "Há algo a ser executado"  | [Gabriel Lopes](https://github.com/BrzGab) | [Artur Mendonça](https://github.com/ArtyMend07)  | 04/09/2025 |
