@@ -16,5 +16,5 @@
   - [1.5. Iniciativas Extras](Base/1.5.IniciativasExtras)
     - [1.5.1. Ferramentas](Base/1.5.IniciativasExtras/1.5.1Ferramentas.md)
 - **Planejamento**
-  - [Metodologia](planejamento/Metodologia.md)
-  - [Heatmap](planejamento/heatmap.md)
+  - [Metodologia](Base/planejamento/Metodologia.md)
+  - [Heatmap](Base/planejamento/heatmap.md)
