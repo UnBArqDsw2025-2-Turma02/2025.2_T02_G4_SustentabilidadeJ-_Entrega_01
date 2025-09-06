@@ -22,3 +22,4 @@
 - **Planejamento**
   - [Metodologia](planejamento/Metodologia.md)
   - [Heatmap](planejamento/heatmap.md)
+  - [Justifivativa metodológica](planejamento/justificativa_metodologica.md)
